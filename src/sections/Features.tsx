@@ -1,5 +1,4 @@
 import Tags from "@/components/Tags";
-import { div, span } from "framer-motion/client";
 import FeatureCard from "@/components/FeatureCard";
 import avatar1 from "@/assets/images/avatar-ashwin-santiago.jpg";
 import avatar2 from "@/assets/images/avatar-lula-meyers.jpg";

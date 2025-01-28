@@ -1,5 +1,4 @@
 import React, { HTMLAttributes } from "react";
-import Image from "next/image";
 import { twMerge } from "tailwind-merge";
 
 const Avatar = (props: HTMLAttributes<HTMLDivElement>) => {

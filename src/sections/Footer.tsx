@@ -1,6 +1,6 @@
 import logoImage from "@/assets/images/logo.svg";
 import Image from "next/image";
-import { a, div, footer } from "framer-motion/client";
+
 
 const footerLinks = [
     { href: "#", label: "Contact" },

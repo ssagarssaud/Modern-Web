@@ -1,5 +1,4 @@
 import Tags from "@/components/Tags";
-import { div } from "framer-motion/client";
 import { twMerge } from "tailwind-merge";
 
 const faqs = [

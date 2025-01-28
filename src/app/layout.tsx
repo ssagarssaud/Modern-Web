@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "SaaS Landing Page",
+    title: "Sagar Saud",
     description: "Created By Sagar Saud",
 };
 
