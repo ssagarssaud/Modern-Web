@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { type IntegrationType } from "@/sections/Integrations";
 import { twMerge } from "tailwind-merge";
+import { Fragment } from "react";
 const IntegrationsColumn = (props: {
     integrations: IntegrationType;
     className?: string;

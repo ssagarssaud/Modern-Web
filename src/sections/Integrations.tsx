@@ -8,6 +8,7 @@ import framerIcon from "@/assets/images/framer-logo.svg";
 import gitHubIcon from "@/assets/images/github-logo.svg";
 import Image from "next/image";
 import IntegrationsColumn from "@/components/IntegrationsColumn";
+import { motion } from "framer-motion";
 
 const integrations = [
     {
